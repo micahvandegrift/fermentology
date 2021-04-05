@@ -13,6 +13,7 @@ IMAGES
 - source images primarily from: Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
 - embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub.
 
-COMMENTARY---
+COMMENTARY
+---
 - Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc.
 - Where possible link back to the speakers research (papers, website)
