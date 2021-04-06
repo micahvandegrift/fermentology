@@ -17,3 +17,13 @@ COMMENTARY
 ---
 - Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc.
 - Where possible link back to the speakers research (papers, website)
+---
+WORK FLOW: Kelsey Dufresne 
+On TEXT: Because I had worked previously on Fermentology with the Bee Bread piece, I had familiarity with PubPub, as well as what we were trying to accomplish with these pages and corresponding transcripts. Following Micah's advice, I used the Bee Bread piece as a model for Wild Sourdough.
+
+Process:
+1. I read through the document, editing it to be more readable and to reflect written conventions (like correct capitalization, italics, etc.). I also made comments in PubPub about where I could/should add media and links to materials referenced in the talk (like maps and Facebook groups). I spent an hour doing this preliminary/inital read through.
+2. Began finding links per paragraph. I found the citation feature confusing -- now aiming to save this for the end.
+3. As I started to add in links to materials referenced in the talk, I realized that the Rob Dunn Lab has a really really really great website that actually compiles all their materials and resources. So, now the challenge is to not be repetitive. 
+4. Is it erronous to assume that I can use the images and materials from the Wild Sourdough Project page??
+5. Another hour spent on adding links and media.
