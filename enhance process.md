@@ -15,10 +15,10 @@ IMAGES
 
 COMMENTARY
 ---
-- Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc.
-- Where possible link back to the speakers research (papers, website)
+- Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc. [DONE]
+- Where possible link back to the speakers research (papers, website) [I THINK DONE??]
 ---
-#WORK FLOW: Kelsey Dufresne 
+WORK FLOW: Kelsey Dufresne 
 ===
 On TEXT: Because I had worked previously on Fermentology with the Bee Bread piece, I had familiarity with PubPub, as well as what we were trying to accomplish with these pages and corresponding transcripts. Following Micah's advice, I used the Bee Bread piece as a model for Wild Sourdough.
 
@@ -33,3 +33,6 @@ Process:
 8. Now working on adding extra cool stuff - like National Geo stuff (also, personally excited because I enjoy making sourdough and my starter is from the 1800s and Canada) 
 9. Okay - immediately confused on trying to find discussion/annotation feature. Is that just the comments? Going to focus on footnotes.... 
 11. I feel very lucky because the Wild Sourdough Project team has already created a TON of awesome visuals and media to include.
+12. It is increasingly feeling like a fun game tracking down cool links and tangental media to bring in. Rob Dunn is mentioned across the internet - so it is fun finding Dunn Lab mentioned in Nat Geo and NPR and linking those articles.
+13. It is also fun trying to find different media. With Bee Bread, I really focused on visual media - and interactive visual media. Now I am trying to find audio (podcasts and NPR talks) and Tweets.
+14. Okay - now I think I have TOO MUCH media.
