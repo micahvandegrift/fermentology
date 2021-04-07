@@ -3,22 +3,23 @@ Process for enhancing a talk in Fermentology PubPub
 
 TEXT
 ---
-- edit the text/transcript to make it less talky, more read-y without changing the gist of it
-- add headings/subheads as makes sense- add block quotes as makes sense (maybe just 1-2 per talk). 
-- link to external research or resources mentioned using pubpub's citations feature. Should be at least one link per paragraph. Attempt to always link to open access resources. 
+- edit the text/transcript to make it less talky, more read-y without changing the gist of it [DONE]
+- add headings/subheads as makes sense- add block quotes as makes sense (maybe just 1-2 per talk). [DONE]
+- link to external research or resources mentioned using pubpub's citations feature. Should be at least one link per paragraph. Attempt to always link to open access resources. [NEED HELP WITH THIS] 
 
 IMAGES
 ---
-- identify several places where an image might be useful. Decide if that should be a photo, data viz, table, etc.
-- source images primarily from: Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
-- embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub.
+- identify several places where an image might be useful. Decide if that should be a photo, data viz, table, etc. [DONE]
+- source images primarily from: Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. [DONE]
+- embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub. [DONE]
 
 COMMENTARY
 ---
 - Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc.
 - Where possible link back to the speakers research (papers, website)
 ---
-WORK FLOW: Kelsey Dufresne 
+#WORK FLOW: Kelsey Dufresne 
+===
 On TEXT: Because I had worked previously on Fermentology with the Bee Bread piece, I had familiarity with PubPub, as well as what we were trying to accomplish with these pages and corresponding transcripts. Following Micah's advice, I used the Bee Bread piece as a model for Wild Sourdough.
 
 Process:
@@ -27,3 +28,8 @@ Process:
 3. As I started to add in links to materials referenced in the talk, I realized that the Rob Dunn Lab has a really really really great website that actually compiles all their materials and resources. So, now the challenge is to not be repetitive. 
 4. Is it erronous to assume that I can use the images and materials from the Wild Sourdough Project page??
 5. Another hour spent on adding links and media.
+6. A new day: Following feedback from Micah, I began working to make the enhanced talk more academic-y. Also - got excited by an idea to create a dog visualization. Another hour on re-reading and editing and re-wording for audience. 
+7. Still worried about the citation feature because when I first tried it I accidentally deleted text and could not find an UNDO button. 
+8. Now working on adding extra cool stuff - like National Geo stuff (also, personally excited because I enjoy making sourdough and my starter is from the 1800s and Canada) 
+9. Okay - immediately confused on trying to find discussion/annotation feature. Is that just the comments? Going to focus on footnotes.... 
+11. I feel very lucky because the Wild Sourdough Project team has already created a TON of awesome visuals and media to include.
