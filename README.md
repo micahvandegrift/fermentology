@@ -24,6 +24,7 @@ Who does what
 Links:
 * [Seminar Series on CALS site](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 * [Fermentology PubPub](https://fermentology.pubpub.org/)
+* [Process documentation for 'enhancing' a fermentology lecture](https://github.com/micahvandegrift/fermentology/blob/main/enhance%20process.md)
 
 
 
