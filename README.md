@@ -8,8 +8,9 @@ This project is primarily useful to the library as an example of a thing that lo
 
 Project primary output: (codename The Starter)
 ---
-Digital-first, iteratively ‘published,’ work-in-progress online text/resource hub, delivered via the pubpub platform - https://fermentology.pubpub.org/ 
-*Deadline for version 1.0 - April 30, 2021*
+Digital-first, iteratively ‘published,’ work-in-progress online text/resource hub, delivered via the pubpub platform at https://fermentology.pubpub.org/ 
+
+* *Deadline for version 1.0 - April 30, 2021*
 
 Who does what
 ---
