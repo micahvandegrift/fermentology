@@ -10,7 +10,7 @@ TEXT
 IMAGES
 ---
 - identify several places where an image might be useful. Decide if that should be a photo, data viz, table, etc.
-- source images primarily from: Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
+- source images primarily from: Europeana, DPLA, (Getty)[http://portal.getty.edu/] NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
 - embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub.
 
 COMMENTARY
