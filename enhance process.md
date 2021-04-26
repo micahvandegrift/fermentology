@@ -1,8 +1,26 @@
 Process for enhancing a talk in Fermentology PubPub
 ===
+BEFORE PUBPUB
+---
+- transcripts come from 3Play Media → 3 versions are created (Plain txt file, Html, Srt with time encoded/encrypted for Youtube) but we use the txt file for now
+- transcripts go in Google Drive Folder: Materials for PubPub
+
+IN THE PUBPUB
+---
+- Click: Create a Pub 
+- Click (+): Add to Collection
+- Select: Book
+- Add Title: “Chapter #: __________________”
+- Chapter Title comes from Fermentology Mini-Seminar titles
+- Description comes from Fermentology Mini-Seminar titles (max 280 characters)
+- Add Contributor → name of Mini-Seminar leader
+- Add Affiliation from Mini-Seminar Page
+- Upload Transcript txt file: Copy and Paste
+- In Pub Settings, 1) add the date of Mini-Seminar Talk, 2) add a Preview Image, 3) create a connection (found on the lefthand bar) to the original Mini-Seminar talk (select Supplement and switch the direction)
 
 TEXT
 ---
+- at the top of the pubpub, add the following editors note (italicized): Editors note: This is a lightly edited transcript of the lecture given as part of the Fermentology webinar series. The talk has been enhanced and enriched with media, annotations, and links to other material by the digital publication team in order to amplify and expand the content of the talk.
 - edit the text/transcript to make it less talky, more read-y without changing the gist of it (this may take approx. an hour)
 - refer to the prexisting Fermentology Enhanced Talks as models 
 - re-read the transcript 2-3 times and make edits as you go (this can be done as you work on adding images/media)
