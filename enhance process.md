@@ -34,6 +34,9 @@ IMAGES
 - identify several places where an image might be useful. Decide if that should be a photo, data viz, table, youtube video, podcast, maps, Tweets, etc. 
 - try to break up long sections of text with an image or piece of media (aim for a piece of media every 2-3 paragraphs)
 - try to differentiate your media - try to avoid using exlcusively static images/photos only
+- for one image: try to use an interactive display if possible
+- for two + images: use a gallery-style display  
+- for all media: include citation/attribution in caption 
 - source images primarily from: LOC, Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
 - embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub. 
 
