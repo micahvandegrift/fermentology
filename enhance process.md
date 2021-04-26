@@ -24,4 +24,3 @@ COMMENTARY
 - Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc. (this may take approx. an hour)
 - Where possible link back to the speakers research (papers, website) 
 ---
-
