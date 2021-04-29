@@ -39,6 +39,7 @@ IMAGES
 - for all media: include citation/attribution in caption 
 - source images primarily from: LOC, Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
 - embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub. 
+=======
 
 COMMENTARY
 ---
