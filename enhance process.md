@@ -29,6 +29,7 @@ TEXT
 - as you work through the text, use the discussion/comment feature in Pubpub to make notations about where media could/should be added or referenced
 - add headings/subheads as makes sense- add block quotes as makes sense (sim for 1-2 per talk, not more than 3). 
 - link to external research or resources mentioned using pubpub's citations feature, hyperlinks, or footnotes. Should be at least one link per paragraph. Attempt to always link to open access resources. With footnotes and citations, be sure to not highlight a phrase or word, but rather place them at the end of a phrase or word as you can accidentally delete things.
+- For each scientific term add a footnote to a taxonomic reference identifier. Do a search in [wikidata](https://www.wikidata.org/wiki/Q719725) to begin, and typically Encylcopedia of Life, GBIF, or the iNaturalist Taxon are great resources to link to.
 
 IMAGES
 ---
