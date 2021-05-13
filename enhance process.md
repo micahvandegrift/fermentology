@@ -1,16 +1,16 @@
-Process for enhancing a talk in Fermentology PubPub
+Process for enriching a talk in Fermentology PubPub
 ===
 BEFORE PUBPUB
 ---
-- transcripts come from 3Play Media → 3 versions are created (Plain txt file, Html, Srt with time encoded/encrypted for Youtube) but we use the txt file for now
+- transcripts come from the library's 3Play Media account → 3 versions are created (Plain txt file, Html, Srt with time encoded/encrypted for Youtube) but we use the txt file for now
 - transcripts go in Google Drive Folder: Materials for PubPub
 
-IN THE PUBPUB
+LOGIN TO PUBPUB
 ---
 - Click: Create a Pub 
 - Click (+): Add to Collection
 - Select: Book
-- Add Title: “Chapter #: __________________”
+- Add Title: “ __________________”
 - Chapter Title comes from Fermentology Mini-Seminar titles
 - Description comes from Fermentology Mini-Seminar titles (max 280 characters)
 - Add Contributor → name of Mini-Seminar leader
@@ -20,9 +20,10 @@ IN THE PUBPUB
 
 TEXT
 ---
-- at the top of the pubpub, add the following editors note (italicized): Editors note: This is a lightly edited transcript of the lecture given as part of the Fermentology webinar series. The talk has been enhanced and enriched with media, annotations, and links to other material by the digital publication team in order to amplify and expand the content of the talk.
+- at the top of the pubpub, add the following editors note (italicized): 
+- - Editors note: This publication contains the video of the talk from the Fermentology webinar series, as well as a lightly edited transcript of the lecture. The transcript has been enriched with media, annotations, and links to other material by the digital publication team in order to amplify and extend the content for a reading experience.
 - edit the text/transcript to make it less talky, more read-y without changing the gist of it (this may take approx. an hour)
-- refer to the prexisting Fermentology Enhanced Talks as models 
+- refer to the prexisting Fermentology "Enriched Talks" as models 
 - re-read the transcript 2-3 times and make edits as you go (this can be done as you work on adding images/media)
 - add bullet-points and lists as needed for clarity 
 - as you work through the text, use the discussion/comment feature in Pubpub to make notations about where media could/should be added or referenced
@@ -38,8 +39,7 @@ IMAGES
 - for two + images: use a gallery-style display  
 - for all media: include citation/attribution in caption 
 - source images primarily from: LOC, Europeana, DPLA, NC State digital archives, wikimedia, Flickr (triple check copyrights before using). If there is a data viz to create, check with Micah to see if DVS can work on it. 
-- embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub. 
-=======
+- embed imagery using Storiiies, KnightLabs tools, native viewer embed code from Internet Archive, or directly in PubPub.
 
 COMMENTARY
 ---
