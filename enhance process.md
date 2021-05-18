@@ -10,18 +10,23 @@ LOGIN TO PUBPUB
 - Click: Create a Pub 
 - Click (+): Add to Collection
 - Select: Book
+- Click (+): Add to Collection
+- Select a secondary "______ Essays" collection. Ex. Wild Sourdough's secondary category is "Bread Essays."
 - Add Title: “ __________________”
 - Chapter Title comes from Fermentology Mini-Seminar titles
-- Description comes from Fermentology Mini-Seminar titles (max 280 characters)
+- Description comes from Fermentology Mini-Seminar website (max 280 characters). Edit description to read more like a subtitle. 
 - Add Contributor → name of Mini-Seminar leader
 - Add Affiliation from Mini-Seminar Page
-- Upload Transcript txt file: Copy and Paste
-- In Pub Settings, 1) add the date of Mini-Seminar Talk, 2) add a Preview Image, 3) create a connection (found on the lefthand bar) to the original Mini-Seminar talk (select Supplement and switch the direction)
+- In Pub Settings: 1) add the date of Mini-Seminar Talk, 2) add a Preview Image
 
 TEXT
 ---
-- at the top of the pubpub, add the following editors note (italicized): 
+- at the top of the pub, add the following editors note (italicized): 
 - - Editors note: _This publication contains the video of the talk from the Fermentology webinar series, as well as a lightly edited transcript of the lecture. The transcript has been enriched with media, annotations, and links to other material by the digital publication team in order to amplify and extend the content for a reading experience._
+- Add "Abstract" (H1) - paste in the talk description from Fermentology Mini-Seminar website
+- Add "Watch the talk" (H2) - paste in Youtube talk using pubpub's media feature.
+- Add horizontal line to separate the Abstract and Video from the transcript. 
+- Copy and Paste the transcript into the pub
 - edit the text/transcript to make it less talky, more read-y without changing the gist of it (this may take approx. an hour)
 - refer to the prexisting Fermentology "Enriched Talks" as models 
 - re-read the transcript 2-3 times and make edits as you go (this can be done as you work on adding images/media)
