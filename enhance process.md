@@ -54,6 +54,7 @@ MULTIMEDIA
   * Internet Archive
   * HathiTrust
   * [UN FAO](http://www.fao.org/home/en/)
+  * Encyclopedia Britannica --> especially for image galleries
   * more goes here
   
 - If there is a data viz to create, check with Micah to see if DVS can work on it. 
