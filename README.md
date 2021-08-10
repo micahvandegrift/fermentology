@@ -14,10 +14,10 @@ Digital-first, iteratively ‘published,’ work-in-progress online text/resourc
 
 Who does what
 ---
-* Project Manager - Allison Kittinger (CDSC) 
+* Strategist and Project Lead - Micah Vandegrift
+* Project Manager -  
 * Project Partner - Rob Dunn
 * Editor - Karen Ciccone
-* Strategist and Project Lead - Micah Vandegrift
 * Designers - Brent Brafford (graphic) and Robin Davis (user experience)
 * Content Developers: Kelsey D., Allison K., Carrie H., Nathan W., Micah, Karen
 
